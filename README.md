@@ -61,3 +61,18 @@ PSX (Luma Sync)
   V. Backporch: 14
   V. Sync Len: 3
   Reverse LPF: 3
+
+
+PSX (Luma Sync)
+  Line5X Mode: 256X240 Optimal
+  Line5X Format: 1920X1200
+  256X240 aspect: 4:3
+  Sampling Phase: 157 deg
+  H.Active: 256
+  H.Backporch: 38
+  H.Synclen: 25
+  H.Samplerate: 341
+  V. Active: 240
+  V. Backporch: 14
+  V. Sync Len: 3
+  Reverse LPF: 0
