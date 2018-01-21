@@ -26,7 +26,6 @@ SNES
   V. Sync Len: 3
   Reverse LPF: 1
 
-
 N64
   W.I.P
 
@@ -62,7 +61,6 @@ PSX (Luma Sync)
   V. Sync Len: 3
   Reverse LPF: 3
 
-
 PSX (Luma Sync)
   Line5X Mode: 256X240 Optimal
   Line5X Format: 1920X1200
@@ -76,3 +74,18 @@ PSX (Luma Sync)
   V. Backporch: 14
   V. Sync Len: 3
   Reverse LPF: 0
+
+PS2
+  W.I.P.
+  
+Atari 2600
+  W.I.P.
+  
+Atari Jaguar
+ W.I.P
+ 
+TurboGrafx-16/PC Engine
+  W.I.P.
+  
+Neo Geo
+  W.I.P.
