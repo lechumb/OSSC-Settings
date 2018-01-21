@@ -60,4 +60,4 @@ PSX (Luma Sync)
   V. Active: 240
   V. Backporch: 14
   V. Sync Len: 3
-  Reverse LPF: 4
+  Reverse LPF: 3
