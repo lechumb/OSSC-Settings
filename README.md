@@ -39,7 +39,18 @@ Master System
   W.I.P
 
 Genesis/Mega Drive
-  W.I.P
+  Line5X Mode: 320X240 Optimal
+  Line5X Format: 1920X1200
+  256X240 aspect: 4:3
+  Sampling Phase: 213 deg
+  H.Active: 320
+  H.Backporch: 52
+  H.Synclen: 31
+  H.Samplerate: 428
+  V. Active: 224
+  V. Backporch: 24
+  V. Sync Len: 3
+  Reverse LPF: 2
 
 Saturn
    W.I.P.
